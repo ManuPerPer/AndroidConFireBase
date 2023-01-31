@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Intento46</string>
+    <string name="mail">Introduce un email</string>
+    <string name="pass">Introduce un password</string>
+    <string name="btnRegistro">REGISTRAR</string>
+    <string name="btnLog">LOGIN</string>
+    <string name="volver">VOLVER</string>
+    <string name="eleccion">TU ELECCION ES:</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "595989296005",
+    "firebase_url": "https://mifirebase-6ec56-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mifirebase-6ec56",
+    "storage_bucket": "mifirebase-6ec56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595989296005:android:f341a02dc11d288d82caec",
+        "android_client_info": {
+          "package_name": "com.manuma.intento46"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595989296005-v9k96u30iej44tfloeaue3ov4pvu6cve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV3T_V_A7OYgDac2vJ1eVw-2KmLWMk6p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595989296005-v9k96u30iej44tfloeaue3ov4pvu6cve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
